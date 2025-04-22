@@ -1,0 +1,11 @@
+{
+  "investment": {
+    "investment_duration": "More than 5 years",
+    "risk_level": "High risk (volatility for higher returns)",
+    "compounding_frequency": "Annually",
+    "additional_contributions": "Occasional contributions",
+    "interest_rate_preference": "Undecided",
+    "withdrawal_strategy": "No withdrawals",
+    "output_preference": "Final amount only"
+  }
+}
